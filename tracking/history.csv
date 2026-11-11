@@ -6,3 +6,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-11-10T14:23:49.590Z,P0001,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0001""}",5
 2026-11-10T14:24:27.965Z,P0001,,297915765,release_encoding,accepted,,campaign.abandon,1,"{""task_id"":""P0001"",""subtask_id"":""""}",6
 2026-11-11T09:59:24.962Z,P0001,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""P0001""}",7
+2026-11-11T10:00:05.792Z,P0001,,297915765,release_encoding,accepted,,campaign.abandon,1,"{""task_id"":""P0001"",""subtask_id"":""""}",8
