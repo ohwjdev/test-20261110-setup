@@ -9,7 +9,7 @@ campaign:
   license: "CC-BY-4.0"
 automation:
   central_repository: "lets-encode/lets-encode"
-  ref: "existing-mei-file-alignment"
+  ref: "develop"
   path: "scripts/coordinator.ts"
 source:
   kind: "mei-template"
